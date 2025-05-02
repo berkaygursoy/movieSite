@@ -1,0 +1,1763 @@
+{
+  "Version": 1,
+  "Hash": "8CoMyVowEEehUO1cThCO8Tp6wO8vON1qibSGfrAVgmw=",
+  "Source": "MovieProject",
+  "BasePath": "_content/MovieProject",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MovieProject\\wwwroot",
+      "Source": "MovieProject",
+      "ContentRoot": "D:\\CalismaAlani\\Projeler\\MovieProject2\\wwwroot\\",
+      "BasePath": "_content/MovieProject",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\CalismaAlani\\Projeler\\MovieProject2\\obj\\Debug\\net9.0\\compressed\\3q3rhvjcxf-xtxxf3hu2r.gz",
+      "SourceId": "MovieProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CalismaAlani\\Projeler\\MovieProject2\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/MovieProject",
+      "RelativePath": "js/site#[.{fingerprint=xtxxf3hu2r}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\CalismaAlani\\Projeler\\MovieProject2\\wwwroot\\js\\site.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "fpxp8wntf7",
+      "Integrity": "465WqepNnI4ENLgQJFXrL2gtI20GCfeLK3JAtugOzpA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\CalismaAlani\\Projeler\\MovieProject2\\wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "D:\\CalismaAlani\\Projeler\\MovieProject2\\obj\\Debug\\net9.0\\compressed\\9qtbbl8ni7-awx9sbvb5i.gz",
+      "SourceId": "MovieProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CalismaAlani\\Projeler\\MovieProject2\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/MovieProject",
+      "RelativePath": "css/style#[.{fingerprint=awx9sbvb5i}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\CalismaAlani\\Projeler\\MovieProject2\\wwwroot\\css\\style.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "uq3nq7bypk",
+      "Integrity": "tniI7+xephh4NzsahZ+y985r4z6a9LgHs0szaYLz2ls=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\CalismaAlani\\Projeler\\MovieProject2\\wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "D:\\CalismaAlani\\Projeler\\MovieProject2\\obj\\Debug\\net9.0\\compressed\\fjjzszpe1k-2trqu4xu6d.gz",
+      "SourceId": "MovieProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CalismaAlani\\Projeler\\MovieProject2\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/MovieProject",
+      "RelativePath": "css/forms#[.{fingerprint=2trqu4xu6d}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\CalismaAlani\\Projeler\\MovieProject2\\wwwroot\\css\\forms.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "amb8ik2yy5",
+      "Integrity": "0q6ADyb829Bc9SHzrjvdnlmAXW4hjUIfuaGXBuuEOvE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\CalismaAlani\\Projeler\\MovieProject2\\wwwroot\\css\\forms.css"
+    },
+    {
+      "Identity": "D:\\CalismaAlani\\Projeler\\MovieProject2\\wwwroot\\css\\forms.css",
+      "SourceId": "MovieProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CalismaAlani\\Projeler\\MovieProject2\\wwwroot\\",
+      "BasePath": "_content/MovieProject",
+      "RelativePath": "css/forms#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2trqu4xu6d",
+      "Integrity": "Rg2Vf7IpYJtnNV5lzYkqND/uV7gfXmbPjzgZCZ22Vc0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\forms.css"
+    },
+    {
+      "Identity": "D:\\CalismaAlani\\Projeler\\MovieProject2\\wwwroot\\css\\style.css",
+      "SourceId": "MovieProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CalismaAlani\\Projeler\\MovieProject2\\wwwroot\\",
+      "BasePath": "_content/MovieProject",
+      "RelativePath": "css/style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "awx9sbvb5i",
+      "Integrity": "JpRJIcEheeLpZyz711CWvbXcsdy3hA4hw0lbqUfGAZc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "D:\\CalismaAlani\\Projeler\\MovieProject2\\wwwroot\\js\\site.js",
+      "SourceId": "MovieProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CalismaAlani\\Projeler\\MovieProject2\\wwwroot\\",
+      "BasePath": "_content/MovieProject",
+      "RelativePath": "js/site#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xtxxf3hu2r",
+      "Integrity": "hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "D:\\CalismaAlani\\Projeler\\MovieProject2\\wwwroot\\Uploads\\0a5a3613-4396-4415-a4e0-8179958c6e12.jpg",
+      "SourceId": "MovieProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CalismaAlani\\Projeler\\MovieProject2\\wwwroot\\",
+      "BasePath": "_content/MovieProject",
+      "RelativePath": "Uploads/0a5a3613-4396-4415-a4e0-8179958c6e12#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1hoj0ggj60",
+      "Integrity": "pQLOTfMKIkMcqiw0snRcT+zVyzS1pTd3MDXTD39gBIc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\0a5a3613-4396-4415-a4e0-8179958c6e12.jpg"
+    },
+    {
+      "Identity": "D:\\CalismaAlani\\Projeler\\MovieProject2\\wwwroot\\Uploads\\25eab416-6029-4ab7-88fb-2243bd26d673.jpg",
+      "SourceId": "MovieProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CalismaAlani\\Projeler\\MovieProject2\\wwwroot\\",
+      "BasePath": "_content/MovieProject",
+      "RelativePath": "Uploads/25eab416-6029-4ab7-88fb-2243bd26d673#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l779bt20qn",
+      "Integrity": "wSupnTekG7Q7Vzf7vTYGJDiYcDHrKK+4NKA6Bax2IAg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\25eab416-6029-4ab7-88fb-2243bd26d673.jpg"
+    },
+    {
+      "Identity": "D:\\CalismaAlani\\Projeler\\MovieProject2\\wwwroot\\Uploads\\420fb498-d11f-4d90-993b-1eb7cee5d564.jpg",
+      "SourceId": "MovieProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CalismaAlani\\Projeler\\MovieProject2\\wwwroot\\",
+      "BasePath": "_content/MovieProject",
+      "RelativePath": "Uploads/420fb498-d11f-4d90-993b-1eb7cee5d564#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0qd3u95hk5",
+      "Integrity": "OJqIWcSYMMJSs2G5SWn/gIm452yL99Tiqdm77THLieI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\420fb498-d11f-4d90-993b-1eb7cee5d564.jpg"
+    },
+    {
+      "Identity": "D:\\CalismaAlani\\Projeler\\MovieProject2\\wwwroot\\Uploads\\4df81414-d1a8-48e8-a7de-30808e5fed95.jpg",
+      "SourceId": "MovieProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CalismaAlani\\Projeler\\MovieProject2\\wwwroot\\",
+      "BasePath": "_content/MovieProject",
+      "RelativePath": "Uploads/4df81414-d1a8-48e8-a7de-30808e5fed95#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1hoj0ggj60",
+      "Integrity": "pQLOTfMKIkMcqiw0snRcT+zVyzS1pTd3MDXTD39gBIc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\4df81414-d1a8-48e8-a7de-30808e5fed95.jpg"
+    },
+    {
+      "Identity": "D:\\CalismaAlani\\Projeler\\MovieProject2\\wwwroot\\Uploads\\51686332-c0ec-4605-b375-890c5ddc7109.jpg",
+      "SourceId": "MovieProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CalismaAlani\\Projeler\\MovieProject2\\wwwroot\\",
+      "BasePath": "_content/MovieProject",
+      "RelativePath": "Uploads/51686332-c0ec-4605-b375-890c5ddc7109#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l779bt20qn",
+      "Integrity": "wSupnTekG7Q7Vzf7vTYGJDiYcDHrKK+4NKA6Bax2IAg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\51686332-c0ec-4605-b375-890c5ddc7109.jpg"
+    },
+    {
+      "Identity": "D:\\CalismaAlani\\Projeler\\MovieProject2\\wwwroot\\Uploads\\79ba2425-7e71-4bb6-81d2-0a497d7cb9dd.jpg",
+      "SourceId": "MovieProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CalismaAlani\\Projeler\\MovieProject2\\wwwroot\\",
+      "BasePath": "_content/MovieProject",
+      "RelativePath": "Uploads/79ba2425-7e71-4bb6-81d2-0a497d7cb9dd#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0qd3u95hk5",
+      "Integrity": "OJqIWcSYMMJSs2G5SWn/gIm452yL99Tiqdm77THLieI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\79ba2425-7e71-4bb6-81d2-0a497d7cb9dd.jpg"
+    },
+    {
+      "Identity": "D:\\CalismaAlani\\Projeler\\MovieProject2\\wwwroot\\Uploads\\d6e38557-b13e-4515-9dd0-04f5cc0b8b1b.jpg",
+      "SourceId": "MovieProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CalismaAlani\\Projeler\\MovieProject2\\wwwroot\\",
+      "BasePath": "_content/MovieProject",
+      "RelativePath": "Uploads/d6e38557-b13e-4515-9dd0-04f5cc0b8b1b#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l779bt20qn",
+      "Integrity": "wSupnTekG7Q7Vzf7vTYGJDiYcDHrKK+4NKA6Bax2IAg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\d6e38557-b13e-4515-9dd0-04f5cc0b8b1b.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/forms.2trqu4xu6d.css",
+      "AssetFile": "D:\\CalismaAlani\\Projeler\\MovieProject2\\obj\\Debug\\net9.0\\compressed\\fjjzszpe1k-2trqu4xu6d.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000972762646"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1027"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0q6ADyb829Bc9SHzrjvdnlmAXW4hjUIfuaGXBuuEOvE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 20:49:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Rg2Vf7IpYJtnNV5lzYkqND/uV7gfXmbPjzgZCZ22Vc0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2trqu4xu6d"
+        },
+        {
+          "Name": "label",
+          "Value": "css/forms.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Rg2Vf7IpYJtnNV5lzYkqND/uV7gfXmbPjzgZCZ22Vc0="
+        }
+      ]
+    },
+    {
+      "Route": "css/forms.2trqu4xu6d.css",
+      "AssetFile": "D:\\CalismaAlani\\Projeler\\MovieProject2\\wwwroot\\css\\forms.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3078"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Rg2Vf7IpYJtnNV5lzYkqND/uV7gfXmbPjzgZCZ22Vc0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 20:49:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2trqu4xu6d"
+        },
+        {
+          "Name": "label",
+          "Value": "css/forms.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Rg2Vf7IpYJtnNV5lzYkqND/uV7gfXmbPjzgZCZ22Vc0="
+        }
+      ]
+    },
+    {
+      "Route": "css/forms.2trqu4xu6d.css.gz",
+      "AssetFile": "D:\\CalismaAlani\\Projeler\\MovieProject2\\obj\\Debug\\net9.0\\compressed\\fjjzszpe1k-2trqu4xu6d.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1027"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0q6ADyb829Bc9SHzrjvdnlmAXW4hjUIfuaGXBuuEOvE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 20:49:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2trqu4xu6d"
+        },
+        {
+          "Name": "label",
+          "Value": "css/forms.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0q6ADyb829Bc9SHzrjvdnlmAXW4hjUIfuaGXBuuEOvE="
+        }
+      ]
+    },
+    {
+      "Route": "css/forms.css",
+      "AssetFile": "D:\\CalismaAlani\\Projeler\\MovieProject2\\obj\\Debug\\net9.0\\compressed\\fjjzszpe1k-2trqu4xu6d.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000972762646"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1027"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0q6ADyb829Bc9SHzrjvdnlmAXW4hjUIfuaGXBuuEOvE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 20:49:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Rg2Vf7IpYJtnNV5lzYkqND/uV7gfXmbPjzgZCZ22Vc0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Rg2Vf7IpYJtnNV5lzYkqND/uV7gfXmbPjzgZCZ22Vc0="
+        }
+      ]
+    },
+    {
+      "Route": "css/forms.css",
+      "AssetFile": "D:\\CalismaAlani\\Projeler\\MovieProject2\\wwwroot\\css\\forms.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3078"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Rg2Vf7IpYJtnNV5lzYkqND/uV7gfXmbPjzgZCZ22Vc0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 20:49:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Rg2Vf7IpYJtnNV5lzYkqND/uV7gfXmbPjzgZCZ22Vc0="
+        }
+      ]
+    },
+    {
+      "Route": "css/forms.css.gz",
+      "AssetFile": "D:\\CalismaAlani\\Projeler\\MovieProject2\\obj\\Debug\\net9.0\\compressed\\fjjzszpe1k-2trqu4xu6d.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1027"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0q6ADyb829Bc9SHzrjvdnlmAXW4hjUIfuaGXBuuEOvE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 20:49:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0q6ADyb829Bc9SHzrjvdnlmAXW4hjUIfuaGXBuuEOvE="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.awx9sbvb5i.css",
+      "AssetFile": "D:\\CalismaAlani\\Projeler\\MovieProject2\\obj\\Debug\\net9.0\\compressed\\9qtbbl8ni7-awx9sbvb5i.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000725689405"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1377"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tniI7+xephh4NzsahZ+y985r4z6a9LgHs0szaYLz2ls=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 20:52:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"JpRJIcEheeLpZyz711CWvbXcsdy3hA4hw0lbqUfGAZc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "awx9sbvb5i"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JpRJIcEheeLpZyz711CWvbXcsdy3hA4hw0lbqUfGAZc="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.awx9sbvb5i.css",
+      "AssetFile": "D:\\CalismaAlani\\Projeler\\MovieProject2\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4946"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JpRJIcEheeLpZyz711CWvbXcsdy3hA4hw0lbqUfGAZc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 20:52:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "awx9sbvb5i"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JpRJIcEheeLpZyz711CWvbXcsdy3hA4hw0lbqUfGAZc="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.awx9sbvb5i.css.gz",
+      "AssetFile": "D:\\CalismaAlani\\Projeler\\MovieProject2\\obj\\Debug\\net9.0\\compressed\\9qtbbl8ni7-awx9sbvb5i.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1377"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tniI7+xephh4NzsahZ+y985r4z6a9LgHs0szaYLz2ls=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 20:52:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "awx9sbvb5i"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tniI7+xephh4NzsahZ+y985r4z6a9LgHs0szaYLz2ls="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css",
+      "AssetFile": "D:\\CalismaAlani\\Projeler\\MovieProject2\\obj\\Debug\\net9.0\\compressed\\9qtbbl8ni7-awx9sbvb5i.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000725689405"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1377"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tniI7+xephh4NzsahZ+y985r4z6a9LgHs0szaYLz2ls=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 20:52:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"JpRJIcEheeLpZyz711CWvbXcsdy3hA4hw0lbqUfGAZc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JpRJIcEheeLpZyz711CWvbXcsdy3hA4hw0lbqUfGAZc="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css",
+      "AssetFile": "D:\\CalismaAlani\\Projeler\\MovieProject2\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4946"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JpRJIcEheeLpZyz711CWvbXcsdy3hA4hw0lbqUfGAZc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 20:52:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JpRJIcEheeLpZyz711CWvbXcsdy3hA4hw0lbqUfGAZc="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css.gz",
+      "AssetFile": "D:\\CalismaAlani\\Projeler\\MovieProject2\\obj\\Debug\\net9.0\\compressed\\9qtbbl8ni7-awx9sbvb5i.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1377"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tniI7+xephh4NzsahZ+y985r4z6a9LgHs0szaYLz2ls=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 20:52:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tniI7+xephh4NzsahZ+y985r4z6a9LgHs0szaYLz2ls="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js",
+      "AssetFile": "D:\\CalismaAlani\\Projeler\\MovieProject2\\obj\\Debug\\net9.0\\compressed\\3q3rhvjcxf-xtxxf3hu2r.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.005235602094"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "190"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"465WqepNnI4ENLgQJFXrL2gtI20GCfeLK3JAtugOzpA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 05 Apr 2025 17:18:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js",
+      "AssetFile": "D:\\CalismaAlani\\Projeler\\MovieProject2\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "231"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 05 Apr 2025 17:18:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js.gz",
+      "AssetFile": "D:\\CalismaAlani\\Projeler\\MovieProject2\\obj\\Debug\\net9.0\\compressed\\3q3rhvjcxf-xtxxf3hu2r.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "190"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"465WqepNnI4ENLgQJFXrL2gtI20GCfeLK3JAtugOzpA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 05 Apr 2025 17:18:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-465WqepNnI4ENLgQJFXrL2gtI20GCfeLK3JAtugOzpA="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.xtxxf3hu2r.js",
+      "AssetFile": "D:\\CalismaAlani\\Projeler\\MovieProject2\\obj\\Debug\\net9.0\\compressed\\3q3rhvjcxf-xtxxf3hu2r.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.005235602094"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "190"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"465WqepNnI4ENLgQJFXrL2gtI20GCfeLK3JAtugOzpA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 05 Apr 2025 17:18:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xtxxf3hu2r"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.xtxxf3hu2r.js",
+      "AssetFile": "D:\\CalismaAlani\\Projeler\\MovieProject2\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "231"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 05 Apr 2025 17:18:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xtxxf3hu2r"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.xtxxf3hu2r.js.gz",
+      "AssetFile": "D:\\CalismaAlani\\Projeler\\MovieProject2\\obj\\Debug\\net9.0\\compressed\\3q3rhvjcxf-xtxxf3hu2r.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "190"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"465WqepNnI4ENLgQJFXrL2gtI20GCfeLK3JAtugOzpA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 05 Apr 2025 17:18:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xtxxf3hu2r"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-465WqepNnI4ENLgQJFXrL2gtI20GCfeLK3JAtugOzpA="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/0a5a3613-4396-4415-a4e0-8179958c6e12.1hoj0ggj60.jpg",
+      "AssetFile": "D:\\CalismaAlani\\Projeler\\MovieProject2\\wwwroot\\Uploads\\0a5a3613-4396-4415-a4e0-8179958c6e12.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16435"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pQLOTfMKIkMcqiw0snRcT+zVyzS1pTd3MDXTD39gBIc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 12:43:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1hoj0ggj60"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/0a5a3613-4396-4415-a4e0-8179958c6e12.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pQLOTfMKIkMcqiw0snRcT+zVyzS1pTd3MDXTD39gBIc="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/0a5a3613-4396-4415-a4e0-8179958c6e12.jpg",
+      "AssetFile": "D:\\CalismaAlani\\Projeler\\MovieProject2\\wwwroot\\Uploads\\0a5a3613-4396-4415-a4e0-8179958c6e12.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16435"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pQLOTfMKIkMcqiw0snRcT+zVyzS1pTd3MDXTD39gBIc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 12:43:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pQLOTfMKIkMcqiw0snRcT+zVyzS1pTd3MDXTD39gBIc="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/25eab416-6029-4ab7-88fb-2243bd26d673.jpg",
+      "AssetFile": "D:\\CalismaAlani\\Projeler\\MovieProject2\\wwwroot\\Uploads\\25eab416-6029-4ab7-88fb-2243bd26d673.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14256"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wSupnTekG7Q7Vzf7vTYGJDiYcDHrKK+4NKA6Bax2IAg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 12:42:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wSupnTekG7Q7Vzf7vTYGJDiYcDHrKK+4NKA6Bax2IAg="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/25eab416-6029-4ab7-88fb-2243bd26d673.l779bt20qn.jpg",
+      "AssetFile": "D:\\CalismaAlani\\Projeler\\MovieProject2\\wwwroot\\Uploads\\25eab416-6029-4ab7-88fb-2243bd26d673.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14256"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wSupnTekG7Q7Vzf7vTYGJDiYcDHrKK+4NKA6Bax2IAg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 12:42:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l779bt20qn"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/25eab416-6029-4ab7-88fb-2243bd26d673.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wSupnTekG7Q7Vzf7vTYGJDiYcDHrKK+4NKA6Bax2IAg="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/420fb498-d11f-4d90-993b-1eb7cee5d564.0qd3u95hk5.jpg",
+      "AssetFile": "D:\\CalismaAlani\\Projeler\\MovieProject2\\wwwroot\\Uploads\\420fb498-d11f-4d90-993b-1eb7cee5d564.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16413"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OJqIWcSYMMJSs2G5SWn/gIm452yL99Tiqdm77THLieI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 12:43:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0qd3u95hk5"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/420fb498-d11f-4d90-993b-1eb7cee5d564.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OJqIWcSYMMJSs2G5SWn/gIm452yL99Tiqdm77THLieI="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/420fb498-d11f-4d90-993b-1eb7cee5d564.jpg",
+      "AssetFile": "D:\\CalismaAlani\\Projeler\\MovieProject2\\wwwroot\\Uploads\\420fb498-d11f-4d90-993b-1eb7cee5d564.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16413"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OJqIWcSYMMJSs2G5SWn/gIm452yL99Tiqdm77THLieI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 12:43:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OJqIWcSYMMJSs2G5SWn/gIm452yL99Tiqdm77THLieI="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/4df81414-d1a8-48e8-a7de-30808e5fed95.1hoj0ggj60.jpg",
+      "AssetFile": "D:\\CalismaAlani\\Projeler\\MovieProject2\\wwwroot\\Uploads\\4df81414-d1a8-48e8-a7de-30808e5fed95.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16435"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pQLOTfMKIkMcqiw0snRcT+zVyzS1pTd3MDXTD39gBIc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 09:37:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1hoj0ggj60"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/4df81414-d1a8-48e8-a7de-30808e5fed95.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pQLOTfMKIkMcqiw0snRcT+zVyzS1pTd3MDXTD39gBIc="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/4df81414-d1a8-48e8-a7de-30808e5fed95.jpg",
+      "AssetFile": "D:\\CalismaAlani\\Projeler\\MovieProject2\\wwwroot\\Uploads\\4df81414-d1a8-48e8-a7de-30808e5fed95.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16435"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pQLOTfMKIkMcqiw0snRcT+zVyzS1pTd3MDXTD39gBIc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 09:37:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pQLOTfMKIkMcqiw0snRcT+zVyzS1pTd3MDXTD39gBIc="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/51686332-c0ec-4605-b375-890c5ddc7109.jpg",
+      "AssetFile": "D:\\CalismaAlani\\Projeler\\MovieProject2\\wwwroot\\Uploads\\51686332-c0ec-4605-b375-890c5ddc7109.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14256"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wSupnTekG7Q7Vzf7vTYGJDiYcDHrKK+4NKA6Bax2IAg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 20 Apr 2025 13:45:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wSupnTekG7Q7Vzf7vTYGJDiYcDHrKK+4NKA6Bax2IAg="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/51686332-c0ec-4605-b375-890c5ddc7109.l779bt20qn.jpg",
+      "AssetFile": "D:\\CalismaAlani\\Projeler\\MovieProject2\\wwwroot\\Uploads\\51686332-c0ec-4605-b375-890c5ddc7109.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14256"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wSupnTekG7Q7Vzf7vTYGJDiYcDHrKK+4NKA6Bax2IAg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 20 Apr 2025 13:45:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l779bt20qn"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/51686332-c0ec-4605-b375-890c5ddc7109.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wSupnTekG7Q7Vzf7vTYGJDiYcDHrKK+4NKA6Bax2IAg="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/79ba2425-7e71-4bb6-81d2-0a497d7cb9dd.0qd3u95hk5.jpg",
+      "AssetFile": "D:\\CalismaAlani\\Projeler\\MovieProject2\\wwwroot\\Uploads\\79ba2425-7e71-4bb6-81d2-0a497d7cb9dd.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16413"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OJqIWcSYMMJSs2G5SWn/gIm452yL99Tiqdm77THLieI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Apr 2025 15:49:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0qd3u95hk5"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/79ba2425-7e71-4bb6-81d2-0a497d7cb9dd.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OJqIWcSYMMJSs2G5SWn/gIm452yL99Tiqdm77THLieI="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/79ba2425-7e71-4bb6-81d2-0a497d7cb9dd.jpg",
+      "AssetFile": "D:\\CalismaAlani\\Projeler\\MovieProject2\\wwwroot\\Uploads\\79ba2425-7e71-4bb6-81d2-0a497d7cb9dd.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16413"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OJqIWcSYMMJSs2G5SWn/gIm452yL99Tiqdm77THLieI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Apr 2025 15:49:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OJqIWcSYMMJSs2G5SWn/gIm452yL99Tiqdm77THLieI="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/d6e38557-b13e-4515-9dd0-04f5cc0b8b1b.jpg",
+      "AssetFile": "D:\\CalismaAlani\\Projeler\\MovieProject2\\wwwroot\\Uploads\\d6e38557-b13e-4515-9dd0-04f5cc0b8b1b.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14256"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wSupnTekG7Q7Vzf7vTYGJDiYcDHrKK+4NKA6Bax2IAg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 12:42:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wSupnTekG7Q7Vzf7vTYGJDiYcDHrKK+4NKA6Bax2IAg="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/d6e38557-b13e-4515-9dd0-04f5cc0b8b1b.l779bt20qn.jpg",
+      "AssetFile": "D:\\CalismaAlani\\Projeler\\MovieProject2\\wwwroot\\Uploads\\d6e38557-b13e-4515-9dd0-04f5cc0b8b1b.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14256"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wSupnTekG7Q7Vzf7vTYGJDiYcDHrKK+4NKA6Bax2IAg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 12:42:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l779bt20qn"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/d6e38557-b13e-4515-9dd0-04f5cc0b8b1b.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wSupnTekG7Q7Vzf7vTYGJDiYcDHrKK+4NKA6Bax2IAg="
+        }
+      ]
+    }
+  ]
+}

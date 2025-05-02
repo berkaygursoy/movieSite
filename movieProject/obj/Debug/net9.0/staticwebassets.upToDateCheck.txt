@@ -1,0 +1,13 @@
+D:\CalismaAlani\Projeler\MovieProject2\wwwroot\js\site.js
+D:\CalismaAlani\Projeler\MovieProject2\wwwroot\css\style.css
+D:\CalismaAlani\Projeler\MovieProject2\wwwroot\css\forms.css
+wwwroot\css\forms.css
+wwwroot\css\style.css
+wwwroot\js\site.js
+wwwroot\Uploads\0a5a3613-4396-4415-a4e0-8179958c6e12.jpg
+wwwroot\Uploads\25eab416-6029-4ab7-88fb-2243bd26d673.jpg
+wwwroot\Uploads\420fb498-d11f-4d90-993b-1eb7cee5d564.jpg
+wwwroot\Uploads\4df81414-d1a8-48e8-a7de-30808e5fed95.jpg
+wwwroot\Uploads\51686332-c0ec-4605-b375-890c5ddc7109.jpg
+wwwroot\Uploads\79ba2425-7e71-4bb6-81d2-0a497d7cb9dd.jpg
+wwwroot\Uploads\d6e38557-b13e-4515-9dd0-04f5cc0b8b1b.jpg

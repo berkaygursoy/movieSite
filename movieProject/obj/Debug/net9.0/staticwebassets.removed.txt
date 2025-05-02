@@ -1,0 +1,3 @@
+D:\CalismaAlani\Projeler\MovieProject2\wwwroot\js\site.js
+D:\CalismaAlani\Projeler\MovieProject2\wwwroot\css\style.css
+D:\CalismaAlani\Projeler\MovieProject2\wwwroot\css\forms.css

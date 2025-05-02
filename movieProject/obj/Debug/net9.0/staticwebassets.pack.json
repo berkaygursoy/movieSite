@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\CalismaAlani\\Projeler\\MovieProject2\\wwwroot\\Uploads\\0a5a3613-4396-4415-a4e0-8179958c6e12.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\0a5a3613-4396-4415-a4e0-8179958c6e12.jpg"
+    },
+    {
+      "Id": "D:\\CalismaAlani\\Projeler\\MovieProject2\\wwwroot\\Uploads\\25eab416-6029-4ab7-88fb-2243bd26d673.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\25eab416-6029-4ab7-88fb-2243bd26d673.jpg"
+    },
+    {
+      "Id": "D:\\CalismaAlani\\Projeler\\MovieProject2\\wwwroot\\Uploads\\420fb498-d11f-4d90-993b-1eb7cee5d564.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\420fb498-d11f-4d90-993b-1eb7cee5d564.jpg"
+    },
+    {
+      "Id": "D:\\CalismaAlani\\Projeler\\MovieProject2\\wwwroot\\Uploads\\4df81414-d1a8-48e8-a7de-30808e5fed95.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\4df81414-d1a8-48e8-a7de-30808e5fed95.jpg"
+    },
+    {
+      "Id": "D:\\CalismaAlani\\Projeler\\MovieProject2\\wwwroot\\Uploads\\51686332-c0ec-4605-b375-890c5ddc7109.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\51686332-c0ec-4605-b375-890c5ddc7109.jpg"
+    },
+    {
+      "Id": "D:\\CalismaAlani\\Projeler\\MovieProject2\\wwwroot\\Uploads\\79ba2425-7e71-4bb6-81d2-0a497d7cb9dd.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\79ba2425-7e71-4bb6-81d2-0a497d7cb9dd.jpg"
+    },
+    {
+      "Id": "D:\\CalismaAlani\\Projeler\\MovieProject2\\wwwroot\\Uploads\\d6e38557-b13e-4515-9dd0-04f5cc0b8b1b.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\d6e38557-b13e-4515-9dd0-04f5cc0b8b1b.jpg"
+    },
+    {
+      "Id": "D:\\CalismaAlani\\Projeler\\MovieProject2\\wwwroot\\css\\forms.css",
+      "PackagePath": "staticwebassets\\css\\forms.css"
+    },
+    {
+      "Id": "D:\\CalismaAlani\\Projeler\\MovieProject2\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\CalismaAlani\\Projeler\\MovieProject2\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.MovieProject.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.MovieProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.MovieProject.props",
+      "PackagePath": "build\\MovieProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.MovieProject.props",
+      "PackagePath": "buildMultiTargeting\\MovieProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.MovieProject.props",
+      "PackagePath": "buildTransitive\\MovieProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
