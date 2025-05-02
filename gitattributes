@@ -1,0 +1,5 @@
+*.html linguist-detectable=true
+*.css linguist-detectable=true
+*.aspx linguist-detectable=true
+*.cs linguist-detectable=true
+*.sql linguist-detectable=true
