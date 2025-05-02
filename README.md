@@ -1,2 +1,2 @@
 # movieSite
-I made a movie website using asp MVC .NET Framework technologies
+I made a movie website using C# ASP MVC .NET Framework technologies
